@@ -1,0 +1,14 @@
+.main_nav li {
+	list-style: none;
+	display: inline;
+}
+
+.main_nav a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.footer {
+	background-color: #333;
+	padding: 3rem 1.5rem 2rem;
+}
