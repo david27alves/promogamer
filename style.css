@@ -8,6 +8,10 @@
 	text-decoration: none;
 }
 
+.button_whatsapp {
+	background-color: #34af23 !important;
+}
+
 .footer {
 	background-color: #333;
 	padding: 3rem 1.5rem 2rem;
